@@ -1,0 +1,5 @@
+https://towardsdatascience.com/free-stock-data-for-python-using-yahoo-finance-api-9dafd96cad2e
+https://towardsdatascience.com/a-comprehensive-guide-to-downloading-stock-prices-in-python-2cd93ff821d4
+https://towardsdatascience.com/automate-your-python-scripts-with-task-scheduler-661d0a40b279
+https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2
+https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
